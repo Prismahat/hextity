@@ -3,6 +3,9 @@
 I didn't write this thinkig about publishing, so I threw a bunch of tabs here and there just for me to understand what I was writing.
 I'll wrap everything with a big _preformated_ markdown for now, just in case someone stumbles upon this, otherwise it looks like scheiße.
 
+OK so, I made a new branch (nyan) where I/we can have fun, I like it better that way. I think that's where things are going to happen.  
+This branch will be updated only after `nyan` ideas have endured beyond the -stupid- phase.
+
 ```
 $f,edc,ba9.9a_b MXN
 Foxollón Echientos Deltenta Charlil Bravientos Alphenta Nueve pesos
