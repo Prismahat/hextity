@@ -1,3 +1,9 @@
+### Er, yeah...
+
+I didn't write this thinkig about publishing, so I threw a bunch of tabs here and there just for me to understand what I was writing.
+I'll wrap everything with a big _preformated_ markdown for now, just in case someone stumbles upon this, otherwise it looks like scheiße.
+
+```
 $f,edc,ba9.9a_b MXN
 Foxollón Echientos Deltenta Charlil Bravientos Alphenta Nueve pesos
 con nove
@@ -54,3 +60,4 @@ c,1c0,b57,7c3,1f1,63d,811,f03,a79,6ca,0ff,fc0,e26,ede
 
 seisantos charlenta alphahus, foxanta foxil, foxantos charlentallones, echantos veinti seisil, echantos deltenta echo
 MIT license
+```
