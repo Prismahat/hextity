@@ -3,6 +3,8 @@
 I didn't write this thinkig about publishing, so I threw a bunch of tabs here and there just for me to understand what I was writing.
 I'll wrap everything with a big _preformated_ markdown for now, just in case someone stumbles upon this, otherwise it looks like scheiße.
 
+> I'd charge you just a few hundred dollars but I'll have to use hæxes to account for taxes...! ð_ð
+
 ```
 $f,edc,ba9.9a_b MXN
 Foxollón Echientos Deltenta Charlil Bravientos Alphenta Nueve pesos
@@ -20,12 +22,12 @@ con nove
 1'000,000,000;000,000,000 	= 											( $fL | $f' )
 1"000,000,000;000,000,000;000,000,000 =											( $fY | $f" )
 1°000,000,000;000,000,000;000,000,000:000,000,000;000,000,000;000,000,000:000,000,000;000,000,000;000,000,000 =		( $fS | $f° )
-1* = 
-1& = 
-1^ = 
-1# = 
-1@ = 
-1! = 
+1* = lmfaox	( $fF | $f* )
+1& = trololon	( $fT | $f& )
+1^ = ayfkms	( $fK | $f^ )
+1# = roflx	( $fR | $f# )
+1@ = caton	( $fC | $f@ ) \\we are back to 'C'
+1! = nyans	( $fN | $f! ) \\surprise we are back to 'nulls'
 
 1,111,111,111 = hus hento hæx unhollon hanto hæx unhil hanto hæx uno
 
@@ -59,5 +61,6 @@ f = fox
 c,1c0,b57,7c3,1f1,63d,811,f03,a79,6ca,0ff,fc0,e26,ede
 
 seisantos charlenta alphahus, foxanta foxil, foxantos charlentallones, echantos veinti seisil, echantos deltenta echo
-MIT license
 ```
+
+MIT license
