@@ -53,3 +53,4 @@ f = fox
 c,1c0,b57,7c3,1f1,63d,811,f03,a79,6ca,0ff,fc0,e26,ede
 
 seisantos charlenta alphahus, foxanta foxil, foxantos charlentallones, echantos veinti seisil, echantos deltenta echo
+MIT license
